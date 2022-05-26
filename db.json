@@ -1,0 +1,19 @@
+{
+  "guest": [
+    {
+      "id": 2,
+      "firstName": "Daniel",
+      "lastName": "Ayeni"
+    },
+    {
+      "lastName": "Abutu",
+      "firstName": "Sunday",
+      "id": 4
+    },
+    {
+      "firstName": "Daniel",
+      "lastName": "Samuel",
+      "id": 5
+    }
+  ]
+}
